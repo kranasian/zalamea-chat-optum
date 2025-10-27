@@ -12,7 +12,7 @@ st.set_page_config(
 )
 
 # Flask backend URL
-FLASK_URL = "http://localhost:5001"
+FLASK_URL = "http://localhost:6000"
 
 def send_message_to_backend(message, messages=None):
   """Send message to Flask backend"""

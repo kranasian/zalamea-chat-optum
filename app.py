@@ -403,4 +403,4 @@ if __name__ == '__main__':
   logger.info("Starting Optum HR Chat Application")
   logger.info(f"Model: {model_name}")
   logger.info(f"Pricing - Input: ${PRICING_PER_TOKEN['input']:.6f}/token, Output: ${PRICING_PER_TOKEN['output']:.6f}/token")
-  app.run(debug=True, host='0.0.0.0', port=5001)
+  app.run(debug=False, host='localhost', port=6000)
