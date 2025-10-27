@@ -1,0 +1,994 @@
+2025-10-27 12:00:27,513 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:00:27,519 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:00:32,689 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/app.py', reloading
+2025-10-27 12:00:33,413 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:00:33,420 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:00:36,523 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/app.py', reloading
+2025-10-27 12:00:37,192 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:00:37,199 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:00:41,323 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/app.py', reloading
+2025-10-27 12:00:42,046 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:00:42,052 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:00:45,166 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/app.py', reloading
+2025-10-27 12:00:45,865 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:00:45,872 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:00:46,930 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/app.py', reloading
+2025-10-27 12:00:47,670 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:00:47,670 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:00:47,670 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:00:47,690 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:00:47,698 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:00:54,917 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/app.py', reloading
+2025-10-27 12:00:55,573 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:00:55,573 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:00:55,573 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:00:55,592 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:00:55,598 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:01:53,089 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:01:53,089 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:01:53,089 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:01:53,120 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.0.0.2:5001
+2025-10-27 12:01:53,120 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 12:01:53,121 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:01:53,637 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:01:53,637 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:01:53,637 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:01:53,654 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:01:53,665 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:01:55,608 - __main__ - INFO - Health check requested
+2025-10-27 12:01:55,608 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:01:55] "GET /health HTTP/1.1" 200 -
+2025-10-27 12:02:44,302 - __main__ - INFO - Health check requested
+2025-10-27 12:02:44,303 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:02:44] "GET /health HTTP/1.1" 200 -
+2025-10-27 12:02:46,635 - __main__ - INFO - [e49b7221] Chat request received - Messages count: 1
+2025-10-27 12:02:46,636 - __main__ - INFO - [e49b7221] Request IP: 127.0.0.1
+2025-10-27 12:02:46,636 - __main__ - INFO - [e49b7221] User-Agent: curl/8.7.1
+2025-10-27 12:02:46,636 - __main__ - INFO - [e49b7221] Conversation summary: user: test
+2025-10-27 12:02:46,636 - __main__ - INFO - [e49b7221] Using 1 recent messages (truncated from 1 total)
+2025-10-27 12:02:46,636 - __main__ - INFO - [e49b7221] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:02:46,636 - __main__ - INFO - [e49b7221] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:02:46,636 - __main__ - INFO - [e49b7221] Starting streaming response generation
+2025-10-27 12:02:46,636 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:02:47,089 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:02:47,091 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:02:47] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221] AI generation completed - Chunks received: 4
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221] Response length: 608 characters
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221] Response preview: Hello! I'm Optum's HR Specialist AI Assistant, and I'm here to help you with your HR-related questions and concerns.
+
+Whether you have a question about benefits, leave policies, performance reviews, o...
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221] Performance metrics:
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221]   - Total latency: 0.68s
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221]   - AI generation latency: 0.68s
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221]   - Input tokens (estimated): 82
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221]   - Output tokens (estimated): 98
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221]   - Total tokens: 180
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221]   - Estimated cost: $0.000047
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221]   - Tokens per second: 265.01
+2025-10-27 12:02:47,315 - __main__ - INFO - [e49b7221] Request completed successfully
+2025-10-27 12:02:52,378 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:02:52,508 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:02:53,206 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:02:53,206 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:02:53,206 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:02:53,227 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:02:53,234 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:02:58,378 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:02:58,509 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:02:59,198 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:02:59,198 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:02:59,198 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:02:59,219 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:02:59,226 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:03:03,377 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:03:03,500 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:03:04,046 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:03:04,046 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:03:04,046 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:03:04,066 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:03:04,072 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:03:09,269 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:03:09,390 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:03:09,943 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:03:09,943 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:03:09,943 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:03:09,962 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:03:09,969 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:03:15,132 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:03:15,274 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:03:15,827 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:03:15,827 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:03:15,827 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:03:15,847 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:03:15,856 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:03:27,196 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:03:27,327 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:03:28,046 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:03:28,046 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:03:28,046 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:03:28,066 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:03:28,073 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:03:30,145 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:03:30,270 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:03:30,836 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:03:30,836 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:03:30,836 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:03:30,856 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:03:30,862 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:03:41,186 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:03:41,336 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:03:42,067 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:03:42,067 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:03:42,067 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:03:42,089 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:03:42,097 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:03:44,255 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:03:44,617 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:03:45,202 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:03:45,202 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:03:45,202 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:03:45,222 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:03:45,231 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:04:21,067 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:04:21,068 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:04:21,068 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:04:21,100 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.0.0.2:5001
+2025-10-27 12:04:21,101 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 12:04:21,101 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:04:21,625 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:04:21,625 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:04:21,626 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:04:21,644 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:04:21,651 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:04:26,728 - __main__ - INFO - Health check requested
+2025-10-27 12:04:26,728 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:04:26] "GET /health HTTP/1.1" 200 -
+2025-10-27 12:04:36,110 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:04:36,232 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:04:36,908 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:04:36,908 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:04:36,908 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:04:36,930 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:04:36,937 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:04:40,212 - __main__ - INFO - [6fea735d] Chat request received - Messages count: 1
+2025-10-27 12:04:40,212 - __main__ - INFO - [6fea735d] Request IP: 127.0.0.1
+2025-10-27 12:04:40,212 - __main__ - INFO - [6fea735d] User-Agent: curl/8.7.1
+2025-10-27 12:04:40,212 - __main__ - INFO - [6fea735d] Conversation summary: user: What are my vacation benefits?
+2025-10-27 12:04:40,212 - __main__ - INFO - [6fea735d] Using 1 recent messages (truncated from 1 total)
+2025-10-27 12:04:40,213 - __main__ - INFO - [6fea735d] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:04:40,213 - __main__ - INFO - [6fea735d] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:04:40,213 - __main__ - INFO - [6fea735d] Starting streaming response generation
+2025-10-27 12:04:40,213 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:04:40,541 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:04:40,545 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:04:40] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:04:41,404 - __main__ - INFO - [6fea735d] AI generation completed - Chunks received: 9
+2025-10-27 12:04:41,404 - __main__ - INFO - [6fea735d] Response length: 1558 characters
+2025-10-27 12:04:41,404 - __main__ - INFO - [6fea735d] Response preview: That's a great question! I'd be happy to provide you with information about Optum's vacation benefits.
+
+Generally, vacation benefits at Optum are determined by several factors, including your role, ye...
+2025-10-27 12:04:41,404 - __main__ - INFO - [6fea735d] Performance metrics:
+2025-10-27 12:04:41,404 - __main__ - INFO - [6fea735d]   - Total latency: 1.19s
+2025-10-27 12:04:41,404 - __main__ - INFO - [6fea735d]   - AI generation latency: 1.19s
+2025-10-27 12:04:41,404 - __main__ - INFO - [6fea735d]   - Input tokens (estimated): 86
+2025-10-27 12:04:41,404 - __main__ - INFO - [6fea735d]   - Output tokens (estimated): 242
+2025-10-27 12:04:41,405 - __main__ - INFO - [6fea735d]   - Total tokens: 328
+2025-10-27 12:04:41,405 - __main__ - INFO - [6fea735d]   - Estimated cost: $0.000105
+2025-10-27 12:04:41,405 - __main__ - INFO - [6fea735d]   - Tokens per second: 275.37
+2025-10-27 12:04:41,405 - __main__ - INFO - [6fea735d] Request completed successfully
+2025-10-27 12:04:54,401 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:04:54,525 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:04:55,225 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:04:55,225 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:04:55,225 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:04:55,248 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:04:55,255 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:05:19,724 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:05:19,725 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:05:19,725 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:05:19,753 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.0.0.2:5001
+2025-10-27 12:05:19,753 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 12:05:19,754 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:05:20,295 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:05:20,295 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:05:20,295 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:05:20,318 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:05:20,326 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:05:22,222 - __main__ - INFO - Health check requested
+2025-10-27 12:05:22,222 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:05:22] "GET /health HTTP/1.1" 200 -
+2025-10-27 12:06:03,936 - __main__ - INFO - [a2ab49fb] Chat request received - Messages count: 1
+2025-10-27 12:06:03,936 - __main__ - INFO - [a2ab49fb] Request IP: 127.0.0.1
+2025-10-27 12:06:03,936 - __main__ - INFO - [a2ab49fb] User-Agent: python-requests/2.32.5
+2025-10-27 12:06:03,937 - __main__ - INFO - [a2ab49fb] Conversation summary: user: what is going on?
+2025-10-27 12:06:03,937 - __main__ - INFO - [a2ab49fb] Using 1 recent messages (truncated from 1 total)
+2025-10-27 12:06:03,937 - __main__ - INFO - [a2ab49fb] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:06:03,937 - __main__ - INFO - [a2ab49fb] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:06:03,937 - __main__ - INFO - [a2ab49fb] Starting streaming response generation
+2025-10-27 12:06:03,937 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:06:04,410 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:06:04,412 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:06:04] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:06:04,668 - __main__ - INFO - [a2ab49fb] AI generation completed - Chunks received: 5
+2025-10-27 12:06:04,668 - __main__ - INFO - [a2ab49fb] Response length: 542 characters
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb] Response preview: Hello! I'm Optum's HR Specialist AI assistant, and I'm here to help you with any HR-related questions or concerns you might have.
+
+To get started, could you please tell me what you're wondering about ...
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb] Performance metrics:
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb]   - Total latency: 0.73s
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb]   - AI generation latency: 0.73s
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb]   - Input tokens (estimated): 85
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb]   - Output tokens (estimated): 91
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb]   - Total tokens: 176
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb]   - Estimated cost: $0.000045
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb]   - Tokens per second: 240.71
+2025-10-27 12:06:04,669 - __main__ - INFO - [a2ab49fb] Request completed successfully
+2025-10-27 12:06:30,012 - __main__ - INFO - [194953cf] Chat request received - Messages count: 3
+2025-10-27 12:06:30,012 - __main__ - INFO - [194953cf] Request IP: 127.0.0.1
+2025-10-27 12:06:30,012 - __main__ - INFO - [194953cf] User-Agent: python-requests/2.32.5
+2025-10-27 12:06:30,013 - __main__ - INFO - [194953cf] Conversation summary: user: what is going on? | assistant: Hello! I'm Optum's HR Specialist AI assistant, and I'm here to help you with any HR-related question... | user: suggestions don't work?
+2025-10-27 12:06:30,013 - __main__ - INFO - [194953cf] Using 3 recent messages (truncated from 3 total)
+2025-10-27 12:06:30,013 - __main__ - INFO - [194953cf] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:06:30,013 - __main__ - INFO - [194953cf] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:06:30,013 - __main__ - INFO - [194953cf] Starting streaming response generation
+2025-10-27 12:06:30,013 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:06:30,340 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:06:30,342 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:06:30] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf] AI generation completed - Chunks received: 5
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf] Response length: 730 characters
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf] Response preview: I understand you're running into an issue where something isn't working as expected, and you're looking for suggestions.
+
+To give you the most accurate and helpful guidance, I need a little more conte...
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf] Performance metrics:
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf]   - Total latency: 0.75s
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf]   - AI generation latency: 0.75s
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf]   - Input tokens (estimated): 179
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf]   - Output tokens (estimated): 115
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf]   - Total tokens: 294
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf]   - Estimated cost: $0.000064
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf]   - Tokens per second: 393.13
+2025-10-27 12:06:30,761 - __main__ - INFO - [194953cf] Request completed successfully
+2025-10-27 12:07:04,820 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_example.py', reloading
+2025-10-27 12:07:04,964 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:07:05,692 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:07:05,692 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:07:05,692 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:07:05,714 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:07:05,723 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:07:09,853 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:07:09,997 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:07:10,630 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:07:10,630 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:07:10,630 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:07:10,648 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:07:10,654 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:08:33,324 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:08:35,412 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:08:36,744 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:08:36,744 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:08:36,744 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:08:36,775 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:08:36,790 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:08:41,950 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:08:42,084 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:08:42,779 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:08:42,779 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:08:42,779 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:08:42,797 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:08:42,804 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:41:30,166 - __main__ - INFO - [a37e5cea] Chat request received - Messages count: 1
+2025-10-27 12:41:30,167 - __main__ - INFO - [a37e5cea] Request IP: 127.0.0.1
+2025-10-27 12:41:30,167 - __main__ - INFO - [a37e5cea] User-Agent: python-requests/2.32.5
+2025-10-27 12:41:30,167 - __main__ - INFO - [a37e5cea] Conversation summary: user: What are my vacation and sick leave benefits?
+2025-10-27 12:41:30,167 - __main__ - INFO - [a37e5cea] Using 1 recent messages (truncated from 1 total)
+2025-10-27 12:41:30,169 - __main__ - INFO - [a37e5cea] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:41:30,171 - __main__ - INFO - [a37e5cea] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:41:30,171 - __main__ - INFO - [a37e5cea] Starting streaming response generation
+2025-10-27 12:41:30,172 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:41:30,518 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:41:30,521 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:41:30] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:41:31,684 - __main__ - INFO - [a37e5cea] AI generation completed - Chunks received: 11
+2025-10-27 12:41:31,684 - __main__ - INFO - [a37e5cea] Response length: 1977 characters
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea] Response preview: That's a great question regarding your time off! As an Optum HR Specialist AI assistant, I can certainly provide you with general information about our vacation and sick leave benefits.
+
+However, **sp...
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea] Performance metrics:
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea]   - Total latency: 1.52s
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea]   - AI generation latency: 1.51s
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea]   - Input tokens (estimated): 89
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea]   - Output tokens (estimated): 309
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea]   - Total tokens: 398
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea]   - Estimated cost: $0.000133
+2025-10-27 12:41:31,685 - __main__ - INFO - [a37e5cea]   - Tokens per second: 262.77
+2025-10-27 12:41:31,686 - __main__ - INFO - [a37e5cea] Request completed successfully
+2025-10-27 12:41:44,176 - __main__ - INFO - [5a72ff92] Chat request received - Messages count: 3
+2025-10-27 12:41:44,176 - __main__ - INFO - [5a72ff92] Request IP: 127.0.0.1
+2025-10-27 12:41:44,176 - __main__ - INFO - [5a72ff92] User-Agent: python-requests/2.32.5
+2025-10-27 12:41:44,177 - __main__ - INFO - [5a72ff92] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: Sorry, I encountered an error: Failed to connect to backend: Expecting value: line 1 column 1 (char ... | user: How do I request time off for a medical appointment?
+2025-10-27 12:41:44,177 - __main__ - INFO - [5a72ff92] Using 3 recent messages (truncated from 3 total)
+2025-10-27 12:41:44,177 - __main__ - INFO - [5a72ff92] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:41:44,178 - __main__ - INFO - [5a72ff92] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:41:44,178 - __main__ - INFO - [5a72ff92] Starting streaming response generation
+2025-10-27 12:41:44,178 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:41:44,577 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:41:44,579 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:41:44] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:41:46,331 - __main__ - INFO - [5a72ff92] AI generation completed - Chunks received: 14
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92] Response length: 2721 characters
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92] Response preview: That's a great question. Requesting time off for a medical appointment is a common process here at Optum.
+
+To ensure everything is handled correctly and to maintain your privacy, the exact procedure c...
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92] Performance metrics:
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92]   - Total latency: 2.16s
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92]   - AI generation latency: 2.15s
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92]   - Input tokens (estimated): 117
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92]   - Output tokens (estimated): 438
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92]   - Total tokens: 555
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92]   - Estimated cost: $0.000187
+2025-10-27 12:41:46,332 - __main__ - INFO - [5a72ff92]   - Tokens per second: 257.63
+2025-10-27 12:41:46,333 - __main__ - INFO - [5a72ff92] Request completed successfully
+2025-10-27 12:42:05,623 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:42:05,623 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:42:05,623 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:42:05,660 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.0.0.2:5001
+2025-10-27 12:42:05,660 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 12:42:05,661 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:42:06,225 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:42:06,225 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:42:06,225 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:42:06,246 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:42:06,254 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:42:08,121 - __main__ - INFO - Health check requested
+2025-10-27 12:42:08,121 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:42:08] "GET /health HTTP/1.1" 200 -
+2025-10-27 12:42:13,509 - __main__ - INFO - [6a279ca1] Chat request received - Messages count: 1
+2025-10-27 12:42:13,509 - __main__ - INFO - [6a279ca1] Request IP: 127.0.0.1
+2025-10-27 12:42:13,509 - __main__ - INFO - [6a279ca1] User-Agent: python-requests/2.32.5
+2025-10-27 12:42:13,509 - __main__ - INFO - [6a279ca1] Conversation summary: user: What are my vacation and sick leave benefits?
+2025-10-27 12:42:13,509 - __main__ - INFO - [6a279ca1] Using 1 recent messages (truncated from 1 total)
+2025-10-27 12:42:13,509 - __main__ - INFO - [6a279ca1] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:42:13,509 - __main__ - INFO - [6a279ca1] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:42:13,509 - __main__ - INFO - [6a279ca1] Starting streaming response generation
+2025-10-27 12:42:13,510 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:42:13,838 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:42:13,840 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:42:13] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:42:15,643 - __main__ - INFO - [6a279ca1] AI generation completed - Chunks received: 14
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1] Response length: 2738 characters
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1] Response preview: That's a great question! Understanding your leave benefits is important. As an AI HR Specialist for Optum, I can certainly give you an overview of how vacation and sick leave generally work, but pleas...
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1] Performance metrics:
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1]   - Total latency: 2.13s
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1]   - AI generation latency: 2.13s
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1]   - Input tokens (estimated): 89
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1]   - Output tokens (estimated): 424
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1]   - Total tokens: 513
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1]   - Estimated cost: $0.000179
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1]   - Tokens per second: 240.37
+2025-10-27 12:42:15,644 - __main__ - INFO - [6a279ca1] Request completed successfully
+2025-10-27 12:43:05,126 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:43:05,253 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:43:06,163 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:43:06,163 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:43:06,163 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:43:06,192 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:43:06,199 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:43:36,122 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:43:36,306 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:43:37,104 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:43:37,104 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:43:37,104 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:43:37,126 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:43:37,135 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:43:39,268 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 12:43:39,406 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:43:39,946 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:43:39,946 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:43:39,946 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:43:39,967 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:43:39,973 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:44:00,841 - __main__ - INFO - [eb351fc5] Chat request received - Messages count: 3
+2025-10-27 12:44:00,841 - __main__ - INFO - [eb351fc5] Request IP: 127.0.0.1
+2025-10-27 12:44:00,841 - __main__ - INFO - [eb351fc5] User-Agent: python-requests/2.32.5
+2025-10-27 12:44:00,841 - __main__ - INFO - [eb351fc5] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: Sorry, I encountered an error: Failed to connect to backend: Expecting value: line 1 column 1 (char ... | user: What are my vacation and sick leave benefits?
+2025-10-27 12:44:00,841 - __main__ - INFO - [eb351fc5] Using 3 recent messages (truncated from 3 total)
+2025-10-27 12:44:00,841 - __main__ - INFO - [eb351fc5] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:44:00,842 - __main__ - INFO - [eb351fc5] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:44:00,842 - __main__ - INFO - [eb351fc5] Starting streaming response generation
+2025-10-27 12:44:00,843 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:44:01,269 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:44:01,270 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:44:01] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:44:02,451 - __main__ - INFO - [eb351fc5] AI generation completed - Chunks received: 11
+2025-10-27 12:44:02,451 - __main__ - INFO - [eb351fc5] Response length: 2083 characters
+2025-10-27 12:44:02,451 - __main__ - INFO - [eb351fc5] Response preview: That's a great question! Understanding your paid time off (PTO) benefits is important.
+
+As an AI HR Specialist for Optum, I can give you general information, but **your specific vacation and sick leav...
+2025-10-27 12:44:02,451 - __main__ - INFO - [eb351fc5] Performance metrics:
+2025-10-27 12:44:02,451 - __main__ - INFO - [eb351fc5]   - Total latency: 1.61s
+2025-10-27 12:44:02,451 - __main__ - INFO - [eb351fc5]   - AI generation latency: 1.61s
+2025-10-27 12:44:02,452 - __main__ - INFO - [eb351fc5]   - Input tokens (estimated): 115
+2025-10-27 12:44:02,452 - __main__ - INFO - [eb351fc5]   - Output tokens (estimated): 329
+2025-10-27 12:44:02,452 - __main__ - INFO - [eb351fc5]   - Total tokens: 444
+2025-10-27 12:44:02,452 - __main__ - INFO - [eb351fc5]   - Estimated cost: $0.000143
+2025-10-27 12:44:02,452 - __main__ - INFO - [eb351fc5]   - Tokens per second: 275.84
+2025-10-27 12:44:02,452 - __main__ - INFO - [eb351fc5] Request completed successfully
+2025-10-27 12:44:24,336 - __main__ - INFO - [c1fb8829] Chat request received - Messages count: 5
+2025-10-27 12:44:24,337 - __main__ - INFO - [c1fb8829] Request IP: 127.0.0.1
+2025-10-27 12:44:24,337 - __main__ - INFO - [c1fb8829] User-Agent: python-requests/2.32.5
+2025-10-27 12:44:24,337 - __main__ - INFO - [c1fb8829] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: Sorry, I encountered an error: Failed to connect to backend: Expecting value: line 1 column 1 (char ... | user: What are my vacation and sick leave benefits? | assistant: That's a great question! Understanding your paid time off (PTO) benefits is important.
+
+As an AI HR ... | user: expand more...
+2025-10-27 12:44:24,337 - __main__ - INFO - [c1fb8829] Using 5 recent messages (truncated from 5 total)
+2025-10-27 12:44:24,338 - __main__ - INFO - [c1fb8829] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:44:24,338 - __main__ - INFO - [c1fb8829] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:44:24,338 - __main__ - INFO - [c1fb8829] Starting streaming response generation
+2025-10-27 12:44:24,338 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:44:24,753 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:44:24,755 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:44:24] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:44:26,734 - __main__ - INFO - [c1fb8829] AI generation completed - Chunks received: 16
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829] Response length: 3129 characters
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829] Response preview: I'd be happy to expand on the general structure of PTO and leave policies at Optum. While I must always direct you to your official employee records for your *exact* balance and specific rates, I can ...
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829] Performance metrics:
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829]   - Total latency: 2.40s
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829]   - AI generation latency: 2.40s
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829]   - Input tokens (estimated): 446
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829]   - Output tokens (estimated): 500
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829]   - Total tokens: 946
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829]   - Estimated cost: $0.000245
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829]   - Tokens per second: 394.70
+2025-10-27 12:44:26,735 - __main__ - INFO - [c1fb8829] Request completed successfully
+2025-10-27 12:49:53,936 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/app.py', reloading
+2025-10-27 12:49:54,103 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:49:54,849 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:49:54,849 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:49:54,849 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:49:54,873 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:49:54,881 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:50:14,471 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/app.py', reloading
+2025-10-27 12:50:14,607 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:50:15,324 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:50:15,325 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:50:15,325 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:50:15,346 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:50:15,354 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:52:43,938 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:52:43,938 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:52:43,938 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:52:43,972 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.0.0.2:5001
+2025-10-27 12:52:43,972 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 12:52:43,973 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 12:52:44,526 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 12:52:44,526 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 12:52:44,526 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 12:52:44,543 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 12:52:44,550 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 12:52:46,419 - __main__ - INFO - Health check requested
+2025-10-27 12:52:46,429 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:52:46] "GET /health HTTP/1.1" 200 -
+2025-10-27 12:52:56,028 - __main__ - INFO - [218c1906] Chat request received - Messages count: 1
+2025-10-27 12:52:56,029 - __main__ - INFO - [218c1906] Request IP: 127.0.0.1
+2025-10-27 12:52:56,029 - __main__ - INFO - [218c1906] User-Agent: python-requests/2.32.5
+2025-10-27 12:52:56,029 - __main__ - INFO - [218c1906] Conversation summary: user: What are my vacation and sick leave benefits?
+2025-10-27 12:52:56,029 - __main__ - INFO - [218c1906] Using 1 recent messages (truncated from 1 total)
+2025-10-27 12:52:56,029 - __main__ - INFO - [218c1906] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:52:56,029 - __main__ - INFO - [218c1906] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:52:56,029 - __main__ - INFO - [218c1906] Starting streaming response generation
+2025-10-27 12:52:56,030 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:52:56,471 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:52:56,473 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:52:56] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:52:56,640 - __main__ - INFO - [218c1906] AI generation completed - Chunks received: 3
+2025-10-27 12:52:56,640 - __main__ - INFO - [218c1906] Response length: 360 characters
+2025-10-27 12:52:56,640 - __main__ - INFO - [218c1906] Response preview: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. However, information regarding vacation and sick leave benefits is outside the scope of the Retirement F...
+2025-10-27 12:52:56,641 - __main__ - INFO - [218c1906] Performance metrics:
+2025-10-27 12:52:56,643 - __main__ - INFO - [218c1906]   - Total latency: 0.61s
+2025-10-27 12:52:56,644 - __main__ - INFO - [218c1906]   - AI generation latency: 0.61s
+2025-10-27 12:52:56,644 - __main__ - INFO - [218c1906]   - Input tokens (estimated): 2150
+2025-10-27 12:52:56,644 - __main__ - INFO - [218c1906]   - Output tokens (estimated): 51
+2025-10-27 12:52:56,644 - __main__ - INFO - [218c1906]   - Total tokens: 2201
+2025-10-27 12:52:56,644 - __main__ - INFO - [218c1906]   - Estimated cost: $0.000235
+2025-10-27 12:52:56,644 - __main__ - INFO - [218c1906]   - Tokens per second: 3606.50
+2025-10-27 12:52:56,644 - __main__ - INFO - [218c1906] Request completed successfully
+2025-10-27 12:53:11,063 - __main__ - INFO - [97a5ab7b] Chat request received - Messages count: 3
+2025-10-27 12:53:11,064 - __main__ - INFO - [97a5ab7b] Request IP: 127.0.0.1
+2025-10-27 12:53:11,064 - __main__ - INFO - [97a5ab7b] User-Agent: python-requests/2.32.5
+2025-10-27 12:53:11,064 - __main__ - INFO - [97a5ab7b] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment?
+2025-10-27 12:53:11,064 - __main__ - INFO - [97a5ab7b] Using 3 recent messages (truncated from 3 total)
+2025-10-27 12:53:11,064 - __main__ - INFO - [97a5ab7b] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:53:11,065 - __main__ - INFO - [97a5ab7b] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:53:11,065 - __main__ - INFO - [97a5ab7b] Starting streaming response generation
+2025-10-27 12:53:11,065 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:53:11,539 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:53:11,541 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:53:11] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:53:11,682 - __main__ - INFO - [97a5ab7b] AI generation completed - Chunks received: 3
+2025-10-27 12:53:11,682 - __main__ - INFO - [97a5ab7b] Response length: 297 characters
+2025-10-27 12:53:11,682 - __main__ - INFO - [97a5ab7b] Response preview: I understand you're asking about requesting time off for a medical appointment. As your Retirement Specialist, I focus on retirement plans and benefits.
+
+For procedures on requesting medical leave or ...
+2025-10-27 12:53:11,682 - __main__ - INFO - [97a5ab7b] Performance metrics:
+2025-10-27 12:53:11,682 - __main__ - INFO - [97a5ab7b]   - Total latency: 0.62s
+2025-10-27 12:53:11,683 - __main__ - INFO - [97a5ab7b]   - AI generation latency: 0.62s
+2025-10-27 12:53:11,683 - __main__ - INFO - [97a5ab7b]   - Input tokens (estimated): 2211
+2025-10-27 12:53:11,683 - __main__ - INFO - [97a5ab7b]   - Output tokens (estimated): 45
+2025-10-27 12:53:11,683 - __main__ - INFO - [97a5ab7b]   - Total tokens: 2256
+2025-10-27 12:53:11,683 - __main__ - INFO - [97a5ab7b]   - Estimated cost: $0.000239
+2025-10-27 12:53:11,683 - __main__ - INFO - [97a5ab7b]   - Tokens per second: 3653.87
+2025-10-27 12:53:11,683 - __main__ - INFO - [97a5ab7b] Request completed successfully
+2025-10-27 12:53:31,499 - __main__ - INFO - [a327f372] Chat request received - Messages count: 5
+2025-10-27 12:53:31,499 - __main__ - INFO - [a327f372] Request IP: 127.0.0.1
+2025-10-27 12:53:31,499 - __main__ - INFO - [a327f372] User-Agent: python-requests/2.32.5
+2025-10-27 12:53:31,500 - __main__ - INFO - [a327f372] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan?
+2025-10-27 12:53:31,500 - __main__ - INFO - [a327f372] Using 5 recent messages (truncated from 5 total)
+2025-10-27 12:53:31,500 - __main__ - INFO - [a327f372] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:53:31,502 - __main__ - INFO - [a327f372] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:53:31,502 - __main__ - INFO - [a327f372] Starting streaming response generation
+2025-10-27 12:53:31,503 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:53:32,040 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:53:32,042 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:53:32] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:53:32,253 - __main__ - INFO - [a327f372] AI generation completed - Chunks received: 4
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372] Response length: 383 characters
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372] Response preview: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively participating in Voluntary Contributions.
+
+You will need to upload a clearly signed **Promissory Note (PN)*...
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372] Performance metrics:
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372]   - Total latency: 0.75s
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372]   - AI generation latency: 0.75s
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372]   - Input tokens (estimated): 2263
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372]   - Output tokens (estimated): 62
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372]   - Total tokens: 2325
+2025-10-27 12:53:32,254 - __main__ - INFO - [a327f372]   - Estimated cost: $0.000251
+2025-10-27 12:53:32,256 - __main__ - INFO - [a327f372]   - Tokens per second: 3086.47
+2025-10-27 12:53:32,256 - __main__ - INFO - [a327f372] Request completed successfully
+2025-10-27 12:54:34,400 - __main__ - INFO - [a91ea1c3] Chat request received - Messages count: 7
+2025-10-27 12:54:34,401 - __main__ - INFO - [a91ea1c3] Request IP: 127.0.0.1
+2025-10-27 12:54:34,401 - __main__ - INFO - [a91ea1c3] User-Agent: python-requests/2.32.5
+2025-10-27 12:54:34,401 - __main__ - INFO - [a91ea1c3] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan? | assistant: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively partici... | user: can I apply?
+2025-10-27 12:54:34,401 - __main__ - INFO - [a91ea1c3] Using 5 recent messages (truncated from 7 total)
+2025-10-27 12:54:34,402 - __main__ - INFO - [a91ea1c3] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:54:34,402 - __main__ - INFO - [a91ea1c3] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:54:34,402 - __main__ - INFO - [a91ea1c3] Starting streaming response generation
+2025-10-27 12:54:34,402 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:54:34,848 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:54:34,849 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:54:34] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:54:34,982 - __main__ - INFO - [a91ea1c3] AI generation completed - Chunks received: 3
+2025-10-27 12:54:34,982 - __main__ - INFO - [a91ea1c3] Response length: 321 characters
+2025-10-27 12:54:34,983 - __main__ - INFO - [a91ea1c3] Response preview: To determine if you can apply, you must be a **regular employee** and **currently participating in the Voluntary Contributions** of the Retirement Fund.
+
+If you meet those two criteria, you are eligib...
+2025-10-27 12:54:34,983 - __main__ - INFO - [a91ea1c3] Performance metrics:
+2025-10-27 12:54:34,983 - __main__ - INFO - [a91ea1c3]   - Total latency: 0.58s
+2025-10-27 12:54:34,983 - __main__ - INFO - [a91ea1c3]   - AI generation latency: 0.58s
+2025-10-27 12:54:34,983 - __main__ - INFO - [a91ea1c3]   - Input tokens (estimated): 2269
+2025-10-27 12:54:34,984 - __main__ - INFO - [a91ea1c3]   - Output tokens (estimated): 50
+2025-10-27 12:54:34,984 - __main__ - INFO - [a91ea1c3]   - Total tokens: 2319
+2025-10-27 12:54:34,984 - __main__ - INFO - [a91ea1c3]   - Estimated cost: $0.000247
+2025-10-27 12:54:34,984 - __main__ - INFO - [a91ea1c3]   - Tokens per second: 4005.12
+2025-10-27 12:54:34,984 - __main__ - INFO - [a91ea1c3] Request completed successfully
+2025-10-27 12:55:21,568 - __main__ - INFO - [6bb31cee] Chat request received - Messages count: 9
+2025-10-27 12:55:21,571 - __main__ - INFO - [6bb31cee] Request IP: 127.0.0.1
+2025-10-27 12:55:21,572 - __main__ - INFO - [6bb31cee] User-Agent: python-requests/2.32.5
+2025-10-27 12:55:21,572 - __main__ - INFO - [6bb31cee] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan? | assistant: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively partici... | user: can I apply? | assistant: To determine if you can apply, you must be a **regular employee** and **currently participating in t... | user: what's voluntary contributions
+2025-10-27 12:55:21,572 - __main__ - INFO - [6bb31cee] Using 5 recent messages (truncated from 9 total)
+2025-10-27 12:55:21,573 - __main__ - INFO - [6bb31cee] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:55:21,574 - __main__ - INFO - [6bb31cee] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:55:21,574 - __main__ - INFO - [6bb31cee] Starting streaming response generation
+2025-10-27 12:55:21,575 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:55:22,051 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:55:22,053 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:55:22] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee] AI generation completed - Chunks received: 4
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee] Response length: 372 characters
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee] Response preview: Employee Voluntary Contributions are amounts you choose to have deducted from your salary and invested in your Retirement Fund, such as nominating 5%, 7.5%, or 10% of your basic salary.
+
+If you are en...
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee] Performance metrics:
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee]   - Total latency: 0.66s
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee]   - AI generation latency: 0.66s
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee]   - Input tokens (estimated): 2267
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee]   - Output tokens (estimated): 56
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee]   - Total tokens: 2323
+2025-10-27 12:55:22,229 - __main__ - INFO - [6bb31cee]   - Estimated cost: $0.000249
+2025-10-27 12:55:22,230 - __main__ - INFO - [6bb31cee]   - Tokens per second: 3546.11
+2025-10-27 12:55:22,230 - __main__ - INFO - [6bb31cee] Request completed successfully
+2025-10-27 12:55:57,436 - __main__ - INFO - [f253472f] Chat request received - Messages count: 11
+2025-10-27 12:55:57,437 - __main__ - INFO - [f253472f] Request IP: 127.0.0.1
+2025-10-27 12:55:57,437 - __main__ - INFO - [f253472f] User-Agent: python-requests/2.32.5
+2025-10-27 12:55:57,437 - __main__ - INFO - [f253472f] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan? | assistant: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively partici... | user: can I apply? | assistant: To determine if you can apply, you must be a **regular employee** and **currently participating in t... | user: what's voluntary contributions | assistant: Employee Voluntary Contributions are amounts you choose to have deducted from your salary and invest... | user: what if I resigned in 5 years?
+2025-10-27 12:55:57,438 - __main__ - INFO - [f253472f] Using 5 recent messages (truncated from 11 total)
+2025-10-27 12:55:57,438 - __main__ - INFO - [f253472f] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:55:57,438 - __main__ - INFO - [f253472f] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:55:57,438 - __main__ - INFO - [f253472f] Starting streaming response generation
+2025-10-27 12:55:57,439 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:55:57,960 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:55:57,962 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:55:57] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:55:58,151 - __main__ - INFO - [f253472f] AI generation completed - Chunks received: 3
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f] Response length: 275 characters
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f] Response preview: If you resign with less than 5 years of tenure, you are only eligible to receive your **Employee Voluntary Contributions**, if any. Any past service contributions would not be vested to you yet.
+
+Woul...
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f] Performance metrics:
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f]   - Total latency: 0.72s
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f]   - AI generation latency: 0.71s
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f]   - Input tokens (estimated): 2261
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f]   - Output tokens (estimated): 46
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f]   - Total tokens: 2307
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f]   - Estimated cost: $0.000245
+2025-10-27 12:55:58,152 - __main__ - INFO - [f253472f]   - Tokens per second: 3234.36
+2025-10-27 12:55:58,153 - __main__ - INFO - [f253472f] Request completed successfully
+2025-10-27 12:56:12,714 - __main__ - INFO - [c1838e28] Chat request received - Messages count: 13
+2025-10-27 12:56:12,715 - __main__ - INFO - [c1838e28] Request IP: 127.0.0.1
+2025-10-27 12:56:12,715 - __main__ - INFO - [c1838e28] User-Agent: python-requests/2.32.5
+2025-10-27 12:56:12,715 - __main__ - INFO - [c1838e28] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan? | assistant: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively partici... | user: can I apply? | assistant: To determine if you can apply, you must be a **regular employee** and **currently participating in t... | user: what's voluntary contributions | assistant: Employee Voluntary Contributions are amounts you choose to have deducted from your salary and invest... | user: what if I resigned in 5 years? | assistant: If you resign with less than 5 years of tenure, you are only eligible to receive your **Employee Vol... | user: how long should I stay?
+2025-10-27 12:56:12,715 - __main__ - INFO - [c1838e28] Using 5 recent messages (truncated from 13 total)
+2025-10-27 12:56:12,715 - __main__ - INFO - [c1838e28] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:56:12,716 - __main__ - INFO - [c1838e28] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:56:12,716 - __main__ - INFO - [c1838e28] Starting streaming response generation
+2025-10-27 12:56:12,716 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:56:13,121 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:56:13,123 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:56:13] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28] AI generation completed - Chunks received: 4
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28] Response length: 372 characters
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28] Response preview: To be eligible for Early Retirement, you need at least five years of service. For Normal Retirement (age 60) or Late Retirement (up to age 65), you also need a minimum of five years of service with th...
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28] Performance metrics:
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28]   - Total latency: 0.54s
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28]   - AI generation latency: 0.54s
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28]   - Input tokens (estimated): 2259
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28]   - Output tokens (estimated): 64
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28]   - Total tokens: 2323
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28]   - Estimated cost: $0.000252
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28]   - Tokens per second: 4309.27
+2025-10-27 12:56:13,255 - __main__ - INFO - [c1838e28] Request completed successfully
+2025-10-27 12:57:06,632 - __main__ - INFO - [4d492534] Chat request received - Messages count: 15
+2025-10-27 12:57:06,634 - __main__ - INFO - [4d492534] Request IP: 127.0.0.1
+2025-10-27 12:57:06,634 - __main__ - INFO - [4d492534] User-Agent: python-requests/2.32.5
+2025-10-27 12:57:06,634 - __main__ - INFO - [4d492534] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan? | assistant: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively partici... | user: can I apply? | assistant: To determine if you can apply, you must be a **regular employee** and **currently participating in t... | user: what's voluntary contributions | assistant: Employee Voluntary Contributions are amounts you choose to have deducted from your salary and invest... | user: what if I resigned in 5 years? | assistant: If you resign with less than 5 years of tenure, you are only eligible to receive your **Employee Vol... | user: how long should I stay? | assistant: To be eligible for Early Retirement, you need at least five years of service. For Normal Retirement ... | user: Compute the optimal contribution I should make so that in 15 years I can leave with 1M pesos.
+2025-10-27 12:57:06,634 - __main__ - INFO - [4d492534] Using 5 recent messages (truncated from 15 total)
+2025-10-27 12:57:06,634 - __main__ - INFO - [4d492534] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:57:06,635 - __main__ - INFO - [4d492534] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:57:06,635 - __main__ - INFO - [4d492534] Starting streaming response generation
+2025-10-27 12:57:06,635 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:57:07,267 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:57:07,268 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:57:07] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:57:07,492 - __main__ - INFO - [4d492534] AI generation completed - Chunks received: 4
+2025-10-27 12:57:07,492 - __main__ - INFO - [4d492534] Response length: 447 characters
+2025-10-27 12:57:07,492 - __main__ - INFO - [4d492534] Response preview: I understand you're looking to plan your retirement savings, which is a great step! However, as an AI assistant, I cannot perform personalized financial projections or computations like calculating th...
+2025-10-27 12:57:07,492 - __main__ - INFO - [4d492534] Performance metrics:
+2025-10-27 12:57:07,492 - __main__ - INFO - [4d492534]   - Total latency: 0.86s
+2025-10-27 12:57:07,492 - __main__ - INFO - [4d492534]   - AI generation latency: 0.86s
+2025-10-27 12:57:07,493 - __main__ - INFO - [4d492534]   - Input tokens (estimated): 2282
+2025-10-27 12:57:07,493 - __main__ - INFO - [4d492534]   - Output tokens (estimated): 66
+2025-10-27 12:57:07,493 - __main__ - INFO - [4d492534]   - Total tokens: 2348
+2025-10-27 12:57:07,493 - __main__ - INFO - [4d492534]   - Estimated cost: $0.000255
+2025-10-27 12:57:07,493 - __main__ - INFO - [4d492534]   - Tokens per second: 2737.68
+2025-10-27 12:57:07,493 - __main__ - INFO - [4d492534] Request completed successfully
+2025-10-27 12:57:45,522 - __main__ - INFO - [c6faadd9] Chat request received - Messages count: 17
+2025-10-27 12:57:45,523 - __main__ - INFO - [c6faadd9] Request IP: 127.0.0.1
+2025-10-27 12:57:45,523 - __main__ - INFO - [c6faadd9] User-Agent: python-requests/2.32.5
+2025-10-27 12:57:45,523 - __main__ - INFO - [c6faadd9] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan? | assistant: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively partici... | user: can I apply? | assistant: To determine if you can apply, you must be a **regular employee** and **currently participating in t... | user: what's voluntary contributions | assistant: Employee Voluntary Contributions are amounts you choose to have deducted from your salary and invest... | user: what if I resigned in 5 years? | assistant: If you resign with less than 5 years of tenure, you are only eligible to receive your **Employee Vol... | user: how long should I stay? | assistant: To be eligible for Early Retirement, you need at least five years of service. For Normal Retirement ... | user: Compute the optimal contribution I should make so that in 15 years I can leave with 1M pesos. | assistant: I understand you're looking to plan your retirement savings, which is a great step! However, as an A... | user: how much should I contribute so that I can leave in 15 years and have 1M pesos.
+2025-10-27 12:57:45,523 - __main__ - INFO - [c6faadd9] Using 5 recent messages (truncated from 17 total)
+2025-10-27 12:57:45,524 - __main__ - INFO - [c6faadd9] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:57:45,524 - __main__ - INFO - [c6faadd9] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:57:45,524 - __main__ - INFO - [c6faadd9] Starting streaming response generation
+2025-10-27 12:57:45,524 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:57:45,929 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:57:45,931 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:57:45] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:57:46,023 - __main__ - INFO - [c6faadd9] AI generation completed - Chunks received: 4
+2025-10-27 12:57:46,023 - __main__ - INFO - [c6faadd9] Response length: 372 characters
+2025-10-27 12:57:46,023 - __main__ - INFO - [c6faadd9] Response preview: I apologize, but I still cannot compute the exact contribution amount needed to reach PHP 1 Million in 15 years. That calculation depends on various factors, including potential investment gains/losse...
+2025-10-27 12:57:46,023 - __main__ - INFO - [c6faadd9] Performance metrics:
+2025-10-27 12:57:46,023 - __main__ - INFO - [c6faadd9]   - Total latency: 0.50s
+2025-10-27 12:57:46,024 - __main__ - INFO - [c6faadd9]   - AI generation latency: 0.50s
+2025-10-27 12:57:46,024 - __main__ - INFO - [c6faadd9]   - Input tokens (estimated): 2312
+2025-10-27 12:57:46,024 - __main__ - INFO - [c6faadd9]   - Output tokens (estimated): 54
+2025-10-27 12:57:46,024 - __main__ - INFO - [c6faadd9]   - Total tokens: 2366
+2025-10-27 12:57:46,024 - __main__ - INFO - [c6faadd9]   - Estimated cost: $0.000253
+2025-10-27 12:57:46,024 - __main__ - INFO - [c6faadd9]   - Tokens per second: 4744.97
+2025-10-27 12:57:46,024 - __main__ - INFO - [c6faadd9] Request completed successfully
+2025-10-27 12:59:20,381 - __main__ - INFO - [cdfa7334] Chat request received - Messages count: 19
+2025-10-27 12:59:20,381 - __main__ - INFO - [cdfa7334] Request IP: 127.0.0.1
+2025-10-27 12:59:20,381 - __main__ - INFO - [cdfa7334] User-Agent: python-requests/2.32.5
+2025-10-27 12:59:20,381 - __main__ - INFO - [cdfa7334] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan? | assistant: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively partici... | user: can I apply? | assistant: To determine if you can apply, you must be a **regular employee** and **currently participating in t... | user: what's voluntary contributions | assistant: Employee Voluntary Contributions are amounts you choose to have deducted from your salary and invest... | user: what if I resigned in 5 years? | assistant: If you resign with less than 5 years of tenure, you are only eligible to receive your **Employee Vol... | user: how long should I stay? | assistant: To be eligible for Early Retirement, you need at least five years of service. For Normal Retirement ... | user: Compute the optimal contribution I should make so that in 15 years I can leave with 1M pesos. | assistant: I understand you're looking to plan your retirement savings, which is a great step! However, as an A... | user: how much should I contribute so that I can leave in 15 years and have 1M pesos. | assistant: I apologize, but I still cannot compute the exact contribution amount needed to reach PHP 1 Million ... | user: Which document should I have if I can't pay?
+2025-10-27 12:59:20,382 - __main__ - INFO - [cdfa7334] Using 5 recent messages (truncated from 19 total)
+2025-10-27 12:59:20,382 - __main__ - INFO - [cdfa7334] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:59:20,382 - __main__ - INFO - [cdfa7334] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:59:20,382 - __main__ - INFO - [cdfa7334] Starting streaming response generation
+2025-10-27 12:59:20,383 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:59:20,795 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:59:20,800 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:59:20] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:59:20,869 - __main__ - INFO - [cdfa7334] AI generation completed - Chunks received: 3
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334] Response length: 214 characters
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334] Response preview: If you are unable to pay your Member Loan balance in full after making at least three months of payments, you must submit an online case via the **Employee Center** to request the full pay-off via sal...
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334] Performance metrics:
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334]   - Total latency: 0.49s
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334]   - AI generation latency: 0.49s
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334]   - Input tokens (estimated): 2306
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334]   - Output tokens (estimated): 38
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334]   - Total tokens: 2344
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334]   - Estimated cost: $0.000246
+2025-10-27 12:59:20,870 - __main__ - INFO - [cdfa7334]   - Tokens per second: 4812.55
+2025-10-27 12:59:20,871 - __main__ - INFO - [cdfa7334] Request completed successfully
+2025-10-27 12:59:32,094 - __main__ - INFO - [a80dc553] Chat request received - Messages count: 21
+2025-10-27 12:59:32,095 - __main__ - INFO - [a80dc553] Request IP: 127.0.0.1
+2025-10-27 12:59:32,095 - __main__ - INFO - [a80dc553] User-Agent: python-requests/2.32.5
+2025-10-27 12:59:32,095 - __main__ - INFO - [a80dc553] Conversation summary: user: What are my vacation and sick leave benefits? | assistant: As Optum's Retirement Specialist, I can certainly assist you with retirement-related questions. Howe... | user: How do I request time off for a medical appointment? | assistant: I understand you're asking about requesting time off for a medical appointment. As your Retirement S... | user: what do I need for a loan? | assistant: To apply for a Member Loan from the Retirement Fund, you must be a regular employee actively partici... | user: can I apply? | assistant: To determine if you can apply, you must be a **regular employee** and **currently participating in t... | user: what's voluntary contributions | assistant: Employee Voluntary Contributions are amounts you choose to have deducted from your salary and invest... | user: what if I resigned in 5 years? | assistant: If you resign with less than 5 years of tenure, you are only eligible to receive your **Employee Vol... | user: how long should I stay? | assistant: To be eligible for Early Retirement, you need at least five years of service. For Normal Retirement ... | user: Compute the optimal contribution I should make so that in 15 years I can leave with 1M pesos. | assistant: I understand you're looking to plan your retirement savings, which is a great step! However, as an A... | user: how much should I contribute so that I can leave in 15 years and have 1M pesos. | assistant: I apologize, but I still cannot compute the exact contribution amount needed to reach PHP 1 Million ... | user: Which document should I have if I can't pay? | assistant: If you are unable to pay your Member Loan balance in full after making at least three months of paym... | user: what note?
+2025-10-27 12:59:32,095 - __main__ - INFO - [a80dc553] Using 5 recent messages (truncated from 21 total)
+2025-10-27 12:59:32,095 - __main__ - INFO - [a80dc553] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 12:59:32,095 - __main__ - INFO - [a80dc553] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 12:59:32,095 - __main__ - INFO - [a80dc553] Starting streaming response generation
+2025-10-27 12:59:32,095 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 12:59:32,489 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 12:59:32,491 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 12:59:32] "POST /chat HTTP/1.1" 200 -
+2025-10-27 12:59:32,534 - __main__ - INFO - [a80dc553] AI generation completed - Chunks received: 3
+2025-10-27 12:59:32,534 - __main__ - INFO - [a80dc553] Response length: 221 characters
+2025-10-27 12:59:32,534 - __main__ - INFO - [a80dc553] Response preview: The required document is the **Promissory Note (PN)**. You must print, read, agree to, sign, and upload this document when applying for the member loan. You can download the PN from the Loans tab of t...
+2025-10-27 12:59:32,534 - __main__ - INFO - [a80dc553] Performance metrics:
+2025-10-27 12:59:32,535 - __main__ - INFO - [a80dc553]   - Total latency: 0.44s
+2025-10-27 12:59:32,535 - __main__ - INFO - [a80dc553]   - AI generation latency: 0.44s
+2025-10-27 12:59:32,535 - __main__ - INFO - [a80dc553]   - Input tokens (estimated): 2262
+2025-10-27 12:59:32,535 - __main__ - INFO - [a80dc553]   - Output tokens (estimated): 38
+2025-10-27 12:59:32,535 - __main__ - INFO - [a80dc553]   - Total tokens: 2300
+2025-10-27 12:59:32,535 - __main__ - INFO - [a80dc553]   - Estimated cost: $0.000241
+2025-10-27 12:59:32,535 - __main__ - INFO - [a80dc553]   - Tokens per second: 5247.38
+2025-10-27 12:59:32,535 - __main__ - INFO - [a80dc553] Request completed successfully
+2025-10-27 13:03:14,267 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:03:14,461 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:03:15,188 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:03:15,189 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:03:15,189 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:03:15,207 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:03:15,214 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:37:18,827 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:37:18,989 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:37:19,834 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:37:19,834 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:37:19,834 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:37:19,855 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:37:19,864 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:38:07,392 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:38:07,530 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:38:08,272 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:38:08,272 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:38:08,272 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:38:08,293 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:38:08,301 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:38:14,030 - __main__ - INFO - [cd6a2e9c] Chat request received - Messages count: 1
+2025-10-27 13:38:14,030 - __main__ - INFO - [cd6a2e9c] Request IP: 127.0.0.1
+2025-10-27 13:38:14,030 - __main__ - INFO - [cd6a2e9c] User-Agent: python-requests/2.32.5
+2025-10-27 13:38:14,030 - __main__ - INFO - [cd6a2e9c] Conversation summary: user: what do I need for a loan?
+2025-10-27 13:38:14,031 - __main__ - INFO - [cd6a2e9c] Using 1 recent messages (truncated from 1 total)
+2025-10-27 13:38:14,032 - __main__ - INFO - [cd6a2e9c] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 13:38:14,033 - __main__ - INFO - [cd6a2e9c] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 13:38:14,033 - __main__ - INFO - [cd6a2e9c] Starting streaming response generation
+2025-10-27 13:38:14,033 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 13:38:14,528 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 13:38:14,533 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 13:38:14] "POST /chat HTTP/1.1" 200 -
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c] AI generation completed - Chunks received: 3
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c] Response length: 284 characters
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c] Response preview: To apply for a Member Loan, you need to be a regular employee participating in the Voluntary Contributions. You must also print, sign, and upload a clearly legible Promissory Note (PN) via the retirem...
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c] Performance metrics:
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c]   - Total latency: 0.62s
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c]   - AI generation latency: 0.62s
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c]   - Input tokens (estimated): 2149
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c]   - Output tokens (estimated): 47
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c]   - Total tokens: 2196
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c]   - Estimated cost: $0.000234
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c]   - Tokens per second: 3541.32
+2025-10-27 13:38:14,652 - __main__ - INFO - [cd6a2e9c] Request completed successfully
+2025-10-27 13:38:40,396 - __main__ - INFO - [7d86df43] Chat request received - Messages count: 3
+2025-10-27 13:38:40,397 - __main__ - INFO - [7d86df43] Request IP: 127.0.0.1
+2025-10-27 13:38:40,397 - __main__ - INFO - [7d86df43] User-Agent: python-requests/2.32.5
+2025-10-27 13:38:40,397 - __main__ - INFO - [7d86df43] Conversation summary: user: what do I need for a loan? | assistant: To apply for a Member Loan, you need to be a regular employee participating in the Voluntary Contrib... | user: how long should I stay to get maximum benefit?
+2025-10-27 13:38:40,397 - __main__ - INFO - [7d86df43] Using 3 recent messages (truncated from 3 total)
+2025-10-27 13:38:40,397 - __main__ - INFO - [7d86df43] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 13:38:40,397 - __main__ - INFO - [7d86df43] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 13:38:40,397 - __main__ - INFO - [7d86df43] Starting streaming response generation
+2025-10-27 13:38:40,397 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 13:38:40,755 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 13:38:40,757 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 13:38:40] "POST /chat HTTP/1.1" 200 -
+2025-10-27 13:38:40,919 - __main__ - INFO - [7d86df43] AI generation completed - Chunks received: 4
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43] Response length: 337 characters
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43] Response preview: Eligibility for maximum retirement benefit depends on the type of retirement. For Early Retirement, you need at least five years of service. For Normal or Late Retirement, you must be age 60 or older,...
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43] Performance metrics:
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43]   - Total latency: 0.52s
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43]   - AI generation latency: 0.52s
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43]   - Input tokens (estimated): 2205
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43]   - Output tokens (estimated): 60
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43]   - Total tokens: 2265
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43]   - Estimated cost: $0.000245
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43]   - Tokens per second: 4336.00
+2025-10-27 13:38:40,920 - __main__ - INFO - [7d86df43] Request completed successfully
+2025-10-27 13:39:24,841 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:39:24,989 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:39:25,814 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:39:25,814 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:39:25,814 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:39:25,834 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:39:25,843 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:39:35,183 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:39:35,298 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:39:36,023 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:39:36,023 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:39:36,023 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:39:36,043 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:39:36,049 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:39:40,216 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:39:40,460 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:39:41,004 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:39:41,005 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:39:41,005 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:39:41,018 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:39:41,023 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:39:50,854 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:39:50,854 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:39:50,855 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:39:50,892 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5001
+ * Running on http://192.0.0.2:5001
+2025-10-27 13:39:50,892 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-10-27 13:39:50,893 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:39:51,441 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:39:51,441 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:39:51,441 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:39:51,456 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:39:51,464 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:39:53,346 - __main__ - INFO - Health check requested
+2025-10-27 13:39:53,347 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 13:39:53] "GET /health HTTP/1.1" 200 -
+2025-10-27 13:40:33,714 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:40:33,972 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:40:34,695 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:40:34,695 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:40:34,695 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:40:34,715 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:40:34,722 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:40:40,926 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:40:41,037 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:40:41,825 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:40:41,825 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:40:41,825 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:40:41,841 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:40:41,847 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:40:59,429 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:40:59,691 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:41:00,407 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:41:00,407 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:41:00,407 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:41:00,426 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:41:00,433 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:41:33,482 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:41:33,642 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:41:34,428 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:41:34,428 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:41:34,428 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:41:34,450 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:41:34,458 - werkzeug - INFO -  * Debugger PIN: 117-115-318
+2025-10-27 13:41:37,314 - __main__ - INFO - [a924a2bb] Chat request received - Messages count: 1
+2025-10-27 13:41:37,314 - __main__ - INFO - [a924a2bb] Request IP: 127.0.0.1
+2025-10-27 13:41:37,314 - __main__ - INFO - [a924a2bb] User-Agent: python-requests/2.32.5
+2025-10-27 13:41:37,314 - __main__ - INFO - [a924a2bb] Conversation summary: user: what do I need for a loan?
+2025-10-27 13:41:37,314 - __main__ - INFO - [a924a2bb] Using 1 recent messages (truncated from 1 total)
+2025-10-27 13:41:37,314 - __main__ - INFO - [a924a2bb] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 13:41:37,315 - __main__ - INFO - [a924a2bb] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 13:41:37,315 - __main__ - INFO - [a924a2bb] Starting streaming response generation
+2025-10-27 13:41:37,315 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 13:41:37,795 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 13:41:37,799 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 13:41:37] "POST /chat HTTP/1.1" 200 -
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb] AI generation completed - Chunks received: 3
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb] Response length: 305 characters
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb] Response preview: Hello. To apply for a Member Loan, you must be a regular employee actively participating in the Voluntary Contributions. You will need to log in to the retirement portal, navigate to the Loan tab, and...
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb] Performance metrics:
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb]   - Total latency: 0.54s
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb]   - AI generation latency: 0.54s
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb]   - Input tokens (estimated): 2149
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb]   - Output tokens (estimated): 51
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb]   - Total tokens: 2200
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb]   - Estimated cost: $0.000235
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb]   - Tokens per second: 4109.05
+2025-10-27 13:41:37,850 - __main__ - INFO - [a924a2bb] Request completed successfully
+2025-10-27 13:41:39,063 - __main__ - INFO - [0e7b0a97] Chat request received - Messages count: 3
+2025-10-27 13:41:39,063 - __main__ - INFO - [0e7b0a97] Request IP: 127.0.0.1
+2025-10-27 13:41:39,063 - __main__ - INFO - [0e7b0a97] User-Agent: python-requests/2.32.5
+2025-10-27 13:41:39,063 - __main__ - INFO - [0e7b0a97] Conversation summary: user: what do I need for a loan? | assistant: Hello. To apply for a Member Loan, you must be a regular employee actively participating in the Volu... | user: Which document should I have if I can't pay?
+2025-10-27 13:41:39,063 - __main__ - INFO - [0e7b0a97] Using 3 recent messages (truncated from 3 total)
+2025-10-27 13:41:39,063 - __main__ - INFO - [0e7b0a97] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 13:41:39,064 - __main__ - INFO - [0e7b0a97] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 13:41:39,064 - __main__ - INFO - [0e7b0a97] Starting streaming response generation
+2025-10-27 13:41:39,064 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 13:41:39,440 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 13:41:39,443 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 13:41:39] "POST /chat HTTP/1.1" 200 -
+2025-10-27 13:41:39,669 - __main__ - INFO - [0e7b0a97] AI generation completed - Chunks received: 3
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97] Response length: 300 characters
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97] Response preview: I understand your concern. If you are unable to pay the borrowed amount and resign or abscond shortly after receiving the loan, the outstanding loan balance will be deducted from your retirement benef...
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97] Performance metrics:
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97]   - Total latency: 0.61s
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97]   - AI generation latency: 0.61s
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97]   - Input tokens (estimated): 2209
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97]   - Output tokens (estimated): 50
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97]   - Total tokens: 2259
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97]   - Estimated cost: $0.000241
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97]   - Tokens per second: 3727.74
+2025-10-27 13:41:39,670 - __main__ - INFO - [0e7b0a97] Request completed successfully
+2025-10-27 13:41:40,771 - __main__ - INFO - [5ee6f920] Chat request received - Messages count: 5
+2025-10-27 13:41:40,771 - __main__ - INFO - [5ee6f920] Request IP: 127.0.0.1
+2025-10-27 13:41:40,771 - __main__ - INFO - [5ee6f920] User-Agent: python-requests/2.32.5
+2025-10-27 13:41:40,771 - __main__ - INFO - [5ee6f920] Conversation summary: user: what do I need for a loan? | assistant: Hello. To apply for a Member Loan, you must be a regular employee actively participating in the Volu... | user: Which document should I have if I can't pay? | assistant: I understand your concern. If you are unable to pay the borrowed amount and resign or abscond shortl... | user: how I see the deductions and the details?
+2025-10-27 13:41:40,771 - __main__ - INFO - [5ee6f920] Using 5 recent messages (truncated from 5 total)
+2025-10-27 13:41:40,772 - __main__ - INFO - [5ee6f920] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 13:41:40,772 - __main__ - INFO - [5ee6f920] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 13:41:40,772 - __main__ - INFO - [5ee6f920] Starting streaming response generation
+2025-10-27 13:41:40,772 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 13:41:41,134 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 13:41:41,137 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 13:41:41] "POST /chat HTTP/1.1" 200 -
+2025-10-27 13:41:41,209 - __main__ - INFO - [5ee6f920] AI generation completed - Chunks received: 3
+2025-10-27 13:41:41,209 - __main__ - INFO - [5ee6f920] Response length: 269 characters
+2025-10-27 13:41:41,209 - __main__ - INFO - [5ee6f920] Response preview: The Member Loan balance will reflect on your payslip. You can also check the status of your application and loan details by logging in to the retirement portal and navigating to the Loan tab.
+
+Is ther...
+2025-10-27 13:41:41,209 - __main__ - INFO - [5ee6f920] Performance metrics:
+2025-10-27 13:41:41,210 - __main__ - INFO - [5ee6f920]   - Total latency: 0.44s
+2025-10-27 13:41:41,210 - __main__ - INFO - [5ee6f920]   - AI generation latency: 0.44s
+2025-10-27 13:41:41,210 - __main__ - INFO - [5ee6f920]   - Input tokens (estimated): 2267
+2025-10-27 13:41:41,210 - __main__ - INFO - [5ee6f920]   - Output tokens (estimated): 47
+2025-10-27 13:41:41,210 - __main__ - INFO - [5ee6f920]   - Total tokens: 2314
+2025-10-27 13:41:41,210 - __main__ - INFO - [5ee6f920]   - Estimated cost: $0.000246
+2025-10-27 13:41:41,210 - __main__ - INFO - [5ee6f920]   - Tokens per second: 5293.39
+2025-10-27 13:41:41,210 - __main__ - INFO - [5ee6f920] Request completed successfully
+2025-10-27 13:41:42,702 - __main__ - INFO - [9e09d38f] Chat request received - Messages count: 7
+2025-10-27 13:41:42,703 - __main__ - INFO - [9e09d38f] Request IP: 127.0.0.1
+2025-10-27 13:41:42,703 - __main__ - INFO - [9e09d38f] User-Agent: python-requests/2.32.5
+2025-10-27 13:41:42,703 - __main__ - INFO - [9e09d38f] Conversation summary: user: what do I need for a loan? | assistant: Hello. To apply for a Member Loan, you must be a regular employee actively participating in the Volu... | user: Which document should I have if I can't pay? | assistant: I understand your concern. If you are unable to pay the borrowed amount and resign or abscond shortl... | user: how I see the deductions and the details? | assistant: The Member Loan balance will reflect on your payslip. You can also check the status of your applicat... | user: How do I enroll in health insurance benefits?
+2025-10-27 13:41:42,703 - __main__ - INFO - [9e09d38f] Using 5 recent messages (truncated from 7 total)
+2025-10-27 13:41:42,703 - __main__ - INFO - [9e09d38f] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 13:41:42,703 - __main__ - INFO - [9e09d38f] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 13:41:42,703 - __main__ - INFO - [9e09d38f] Starting streaming response generation
+2025-10-27 13:41:42,703 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 13:41:43,040 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 13:41:43,042 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 13:41:43] "POST /chat HTTP/1.1" 200 -
+2025-10-27 13:41:43,121 - __main__ - INFO - [9e09d38f] AI generation completed - Chunks received: 3
+2025-10-27 13:41:43,121 - __main__ - INFO - [9e09d38f] Response length: 257 characters
+2025-10-27 13:41:43,121 - __main__ - INFO - [9e09d38f] Response preview: As Optum's Retirement Specialist, I can only provide information related to the Retirement Fund. I do not have details about health insurance enrollment.
+
+Please coordinate directly with the **Employe...
+2025-10-27 13:41:43,121 - __main__ - INFO - [9e09d38f] Performance metrics:
+2025-10-27 13:41:43,121 - __main__ - INFO - [9e09d38f]   - Total latency: 0.42s
+2025-10-27 13:41:43,121 - __main__ - INFO - [9e09d38f]   - AI generation latency: 0.42s
+2025-10-27 13:41:43,122 - __main__ - INFO - [9e09d38f]   - Input tokens (estimated): 2264
+2025-10-27 13:41:43,122 - __main__ - INFO - [9e09d38f]   - Output tokens (estimated): 36
+2025-10-27 13:41:43,122 - __main__ - INFO - [9e09d38f]   - Total tokens: 2300
+2025-10-27 13:41:43,122 - __main__ - INFO - [9e09d38f]   - Estimated cost: $0.000241
+2025-10-27 13:41:43,122 - __main__ - INFO - [9e09d38f]   - Tokens per second: 5507.05
+2025-10-27 13:41:43,122 - __main__ - INFO - [9e09d38f] Request completed successfully
+2025-10-27 13:41:53,994 - __main__ - INFO - [a6a816cc] Chat request received - Messages count: 9
+2025-10-27 13:41:53,995 - __main__ - INFO - [a6a816cc] Request IP: 127.0.0.1
+2025-10-27 13:41:53,995 - __main__ - INFO - [a6a816cc] User-Agent: python-requests/2.32.5
+2025-10-27 13:41:53,995 - __main__ - INFO - [a6a816cc] Conversation summary: user: what do I need for a loan? | assistant: Hello. To apply for a Member Loan, you must be a regular employee actively participating in the Volu... | user: Which document should I have if I can't pay? | assistant: I understand your concern. If you are unable to pay the borrowed amount and resign or abscond shortl... | user: how I see the deductions and the details? | assistant: The Member Loan balance will reflect on your payslip. You can also check the status of your applicat... | user: How do I enroll in health insurance benefits? | assistant: As Optum's Retirement Specialist, I can only provide information related to the Retirement Fund. I d... | user: how I see the deductions and the details?
+2025-10-27 13:41:53,995 - __main__ - INFO - [a6a816cc] Using 5 recent messages (truncated from 9 total)
+2025-10-27 13:41:53,996 - __main__ - INFO - [a6a816cc] Starting AI generation with model: gemini-flash-lite-latest
+2025-10-27 13:41:53,996 - __main__ - INFO - [a6a816cc] Generation config - Temperature: 0.7, Max tokens: 2048
+2025-10-27 13:41:53,996 - __main__ - INFO - [a6a816cc] Starting streaming response generation
+2025-10-27 13:41:53,996 - google_genai.models - INFO - AFC is enabled with max remote calls: 10.
+2025-10-27 13:41:54,389 - httpx - INFO - HTTP Request: POST https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:streamGenerateContent?alt=sse "HTTP/1.1 200 OK"
+2025-10-27 13:41:54,392 - werkzeug - INFO - 127.0.0.1 - - [27/Oct/2025 13:41:54] "POST /chat HTTP/1.1" 200 -
+2025-10-27 13:41:54,551 - __main__ - INFO - [a6a816cc] AI generation completed - Chunks received: 4
+2025-10-27 13:41:54,553 - __main__ - INFO - [a6a816cc] Response length: 437 characters
+2025-10-27 13:41:54,553 - __main__ - INFO - [a6a816cc] Response preview: I apologize if my previous answer was unclear. You mentioned seeing deductions and details.
+
+If you are asking about **Retirement Fund deductions (Voluntary Contributions)**, these will reflect on you...
+2025-10-27 13:41:54,553 - __main__ - INFO - [a6a816cc] Performance metrics:
+2025-10-27 13:41:54,554 - __main__ - INFO - [a6a816cc]   - Total latency: 0.56s
+2025-10-27 13:41:54,554 - __main__ - INFO - [a6a816cc]   - AI generation latency: 0.55s
+2025-10-27 13:41:54,554 - __main__ - INFO - [a6a816cc]   - Input tokens (estimated): 2249
+2025-10-27 13:41:54,554 - __main__ - INFO - [a6a816cc]   - Output tokens (estimated): 66
+2025-10-27 13:41:54,554 - __main__ - INFO - [a6a816cc]   - Total tokens: 2315
+2025-10-27 13:41:54,554 - __main__ - INFO - [a6a816cc]   - Estimated cost: $0.000251
+2025-10-27 13:41:54,554 - __main__ - INFO - [a6a816cc]   - Tokens per second: 4173.87
+2025-10-27 13:41:54,554 - __main__ - INFO - [a6a816cc] Request completed successfully
+2025-10-27 13:42:03,447 - werkzeug - INFO -  * Detected change in '/Users/kranasian/zalamea-chat-optum/streamlit_app.py', reloading
+2025-10-27 13:42:03,642 - werkzeug - INFO -  * Restarting with stat
+2025-10-27 13:42:04,377 - __main__ - INFO - Starting Optum HR Chat Application
+2025-10-27 13:42:04,377 - __main__ - INFO - Model: gemini-flash-lite-latest
+2025-10-27 13:42:04,377 - __main__ - INFO - Pricing - Input: $0.000000/token, Output: $0.000000/token
+2025-10-27 13:42:04,398 - werkzeug - WARNING -  * Debugger is active!
+2025-10-27 13:42:04,408 - werkzeug - INFO -  * Debugger PIN: 117-115-318
